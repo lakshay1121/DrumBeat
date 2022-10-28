@@ -8,6 +8,7 @@
   ### Allows you to play the drums with different sounds by clicking and also you can play 
   ### them by pressing the corresponding word on keyboard written on the drum buttons.
   
-  ## This is the Hosted Link : [https://lakshay1121.github.io/DrumBeat/]
+  ## You can check it out Here !
+  ### [https://lakshay1121.github.io/DrumBeat/]
   
   
